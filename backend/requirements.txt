@@ -1,5 +1,5 @@
 django-uniauth==1.2.0
-Django==2.0.0
+Django==2.0.12
 boto3==1.9.200
 botocore==1.12.200
 docutils==0.14
